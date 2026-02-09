@@ -51,5 +51,5 @@ On-Premise Option: Unlike many hosted CI/CD services, Jenkins can be run on-prem
 
 In essence, Jenkins is a powerful, flexible, and mature tool that has become the go-to choice for many organizations embarking on their CI/CD journey. Its significance in the CI/CD landscape cannot be overstated.
 
-In the next lesson, we’ll dive into the practical aspects of using Jenkins, exploring its ecosystem and key components.
+In the file (JK2), we’ll dive into the practical aspects of using Jenkins, exploring its ecosystem and key components.
 
