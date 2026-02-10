@@ -1,0 +1,3 @@
+lets begin with a workstation , lets think you workstation is your lap which docker installed on it.
+alternativtely we can make a clude base server , anyway in your local workstation this will work fine.
+lest imagine you have a two container , one is act as a jetkins server and second will act as a docker server (DIND) [docker inside a docker we call it as a DIND]
