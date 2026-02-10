@@ -1,0 +1,9 @@
+After we finished introduction to jenkins we are moving to getting started with jenkins.
+in here we are taking about - (under the Jenkins CI)
+
+1.Explore Jenkins using
+2.Understand use case and fork the repo
+3.create and configure jenkins jobs to set up a feedback loop
+4.connect jobs with upstream and downstream 
+5.Visualise with build pipeline plugin
+6.configure SCM polling to auto trigger the jobs
