@@ -1,3 +1,12 @@
 lets begin with a workstation , lets think you workstation is your lap which docker installed on it.
 alternativtely we can make a clude base server , anyway in your local workstation this will work fine.
 lest imagine you have a two container , one is act as a jetkins server and second will act as a docker server (DIND) [docker inside a docker we call it as a DIND]
+
+Setting up and configuring jenkins server
+
+you can run docker locally or cloud base. 
+after you run it you can find out that you did all the steps correctly using 
+"docker version" command , when you wrote it you can see client and server side in terminal.
+
+
+
