@@ -6,4 +6,5 @@ in here we are taking about - (under the Jenkins CI)
 3.create and configure jenkins jobs to set up a feedback loop
 4.connect jobs with upstream and downstream 
 5.Visualise with build pipeline plugin
-6.configure SCM polling to auto trigger the jobs
+6.configure SCM polling to auto trigger the jobs.
+
